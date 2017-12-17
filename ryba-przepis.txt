@@ -1,1 +1,2 @@
-zmieniam przepis
+wprowadzamy konflikt, zmieniamy plik na stronie
+jeszcze jeden commit
